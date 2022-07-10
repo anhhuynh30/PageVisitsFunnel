@@ -1,5 +1,7 @@
 # Page Visits Funnel
 
+The purpose of this project is to practice using .merge() function.
+
 In this project, I will analyze **Cool T-Shirts Inc.**'s data on visits to their website. My main task is to build a **funnel**, which is a description of how many people continue to the next step of a multi-step process.
 
 The following is **Cool T-Shirts Inc.**'s funnel process:
